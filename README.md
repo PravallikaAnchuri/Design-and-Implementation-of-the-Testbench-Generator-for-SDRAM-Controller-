@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-the-Testbench-Generator-for-SDRAM-Controller-
+# Design and Implementation of the Testbench Generator for SDRAM Controller-
 
 The goal of this project would be to create a Python program that generates a SystemVerilog testbench for verifying an SDRAM controller. The testbench would include a set of test cases that exercise various features of the controller, such as writing and reading different data patterns, testing error handling logic, and so on.
 
